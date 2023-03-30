@@ -88,9 +88,31 @@ class Aplicacion:
         self.raiz3.mainloop()
     
     #ejecuta el programa
-    def ejecutar(self):
+    def regresar(self):
+        self.raiz.withdraw()
+        self.raiz4=Toplevel()
+        self.raiz4.title("Menú")
+        self.raiz4.geometry("500x500")
+        self.raiz4.resizable(width=False, height=False)
+        self.raiz4.config(bg="white")
+        self.raiz4.iconbitmap("icono.ico")
+        self.raiz4.protocol("WM_DELETE_WINDOW", self.cerrar4)
+        self.raiz4.mainloop()
+    
+    def cerrar2(self):
+        self.raiz2.destroy()
+        self.abrir()
+    
+    def cerrar3(self):
+        self.raiz3.destroy()
+        self.abrir()
+    
+    def cerrar4(self):
+        self.raiz4.destroy()
+        self.abrir()
+    
+    def iniciar(self):
         self.menu()
         self.botones()
-        self.raiz.mainloop()
     
         
