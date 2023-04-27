@@ -11,4 +11,15 @@ candidatos={}
 for i in range(30):
     candidatos[i]=i+1
     
-#ordenar los votos de mayor a menor cantidad de votos
+#ordenar los votos de mayor a menor numero de votos
+for i in range(30):
+    for j in range(30):
+        if votos[i]>votos[j]:
+            votos[i],votos[j]=votos[j],votos[i]
+            candidatos[i],candidatos[j]=candidatos[j],candidatos[i]
+
+#imprimir de mayor a menor numero de votos
+print ("El listado de mayor a menor, según el número de votos obtenidos por cada candidato es:")
+for i in range(30):
+    print("El candidato",candidatos[i],"obtuvo",votos[i],"votos")
+

@@ -9,3 +9,4 @@ zy = lambda x: x%2==0
 for i in range(1,101):
     if zy(i):
         print(i)
+        
