@@ -7,10 +7,8 @@ import numpy as np
 import pandas as pd
 
 #Imprima el código y el nombre de los estudiantes de la carrera X (debe leerse el código de la carrera a listar) que tengan promedio acumulado igual o mayor a 4 y decir cuántos fueron.
-# Pida el numero de la carrera a listar
-# de la base de datos, lea el codigo y el nombre de los estudiantes de la carrera ingresada que tengan promedio acumulado igual o mayor a 4
+# Pida el numero de la carrera a listar, de la base de datos, lea los estudiantes de la carrera ingresada que tengan promedio acumulado igual o mayor a 4
 # LA CARRERA SELECCIONADA corresponde a las dos primeras cifras de la columna A de la base de datos (codigo)
-#carrera = input("Ingrese el código de la carrera a listar: ")
 
 # importar la base de datos
 df = pd.read_excel('BD_EstudiantesUIS.xlsx')
