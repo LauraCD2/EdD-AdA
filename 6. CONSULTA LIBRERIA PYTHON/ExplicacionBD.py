@@ -9,10 +9,10 @@ primeras_cifras = ['10', '11', '14', '16', '18', '19', '20', '21', '22', '23', '
 # Generar 6500 números aleatorios de 9 cifras
 numeros = []
 for i in range(6500):
-    # Generar las dos primeras cifras aleatoriamente
+    # Generar las dos primeras cifras aleatoriamente de la lista de valores posibles de carreras
     primeras = random.choice(primeras_cifras)
     
-    # Generar la tercera cifra aleatoriamente (1 o 2) (SEMESTRE DE INGRESO)
+    # Generar la tercera cifra aleatoriamente (1 o 2) (siglo 20 | siglo 21)
     tercera = random.choice(['1', '2'])
     
     # Generar las siguientes cifras aleatoriamente
@@ -35,16 +35,6 @@ for numero in numeros:
 
 
 ####RANDOMIZADOR DE NOMBRES DE ESTUDIANTES
-import random
-nombres = ['Juan', 'María', 'Pedro', 'Luisa', 'Ana', 'Jorge', 'Marta', 'Carlos', 'Laura', 'Andrés', 'Gabriela', 'Roberto', 'Sofía', 'Alejandro', 'Isabella', 'Diego', 'Valentina', 'Fernando', 'Catalina', 'Pablo', 'Carolina', 'Mauricio', 'Natalia', 'Lorenzo', 'Jimena', 'Simón', 'Melissa', 'Lucas', 'Daniela', 'Gustavo', 'Daniela', 'Emilio', 'Camila', 'José', 'Mariana', 'Raúl', 'Paola', 'Mario', 'Juliana', 'Tomás', 'Adriana', 'Federico', 'Gabriela', 'Ricardo', 'Verónica', 'Julián', 'Lucía', 'Esteban', 'Andrea', 'Eduardo', 'Clara']
-apellidos = ['González', 'Rodríguez', 'García', 'Martínez', 'Sánchez', 'Pérez', 'López', 'Fernández', 'Gómez', 'Díaz', 'Torres', 'Vargas', 'Ramos', 'Romero', 'Suárez', 'Castro', 'Álvarez', 'Ruiz', 'Mendoza', 'Hernández', 'Ramírez', 'Flores', 'Vega', 'Cruz', 'Gutiérrez', 'Ortiz', 'Reyes', 'Morales', 'Núñez', 'Carrasco', 'Medina', 'Acosta', 'Guzmán', 'Ponce', 'Barrera', 'Salas', 'Maldonado', 'Villalobos', 'Olivera', 'Delgado', 'Vera', 'Cabrera', 'Molina', 'Miranda', 'Lara', 'Valenzuela', 'Navarro', 'Valdés', 'Ibarra', 'Bautista', 'Cortés', 'Soria']
-nombres_completos = []
-for i in range(6500):
-    nombre = random.choice(nombres)
-    apellido = random.choice(apellidos)
-    nombres_completos.append(nombre + ' ' + apellido)
-for nombre_completo in nombres_completos:
-    print(nombre_completo)
 
 
 ####RANDOMIZADOR DE PROMEDIO
