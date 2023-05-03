@@ -6,12 +6,6 @@
 import numpy as np
 import pandas as pd
 
-#importe Base de Datos BD_EstudiantesUIS.xlsx
-#import openpyxl as xl
-
-#wb = xl.load_workbook('BD_EstudiantesUIS.xlsx')
-#sheet = wb['Hoja1']
-
 #Imprima el código y el nombre de los estudiantes de la carrera X (debe leerse el código de la carrera a listar) que tengan promedio acumulado igual o mayor a 4 y decir cuántos fueron.
 # Pida el numero de la carrera a listar
 # de la base de datos, lea el codigo y el nombre de los estudiantes de la carrera ingresada que tengan promedio acumulado igual o mayor a 4
