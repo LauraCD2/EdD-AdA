@@ -15,3 +15,6 @@ print("ingrese nombre de la carrera a listar")
 carrera = input()
 
 #consulte la base de datos y filtre los estudiantes de la carrera ingresada
+estudiantes_carrera = estudiantes[estudiantes["Carrera"] == carrera]
+
+print ("Los estudiantes de la carrera", carrera, "que tienen promedio acumulado igual o mayor a 4 son:")
