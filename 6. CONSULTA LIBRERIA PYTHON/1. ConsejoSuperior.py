@@ -34,4 +34,5 @@ for i in range(30):
 
 #comprobar que la suma de votos es igual a 5000
 #print("La suma total de votos es:", sum(votos_normalizados))
+print ("Hecho por: Laura Camila Diaz Delgado - 2220100")
 
