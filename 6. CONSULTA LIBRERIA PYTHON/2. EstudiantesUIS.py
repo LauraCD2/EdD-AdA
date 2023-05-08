@@ -36,3 +36,4 @@ print ("Estudiantes que ingresaron antes de 1990 y están condicionales:"+ "\n" 
 print ("Total de estudiantes que ingresaron antes de 1990 y están condicionales: " + str(len(novecond)))
 
 
+print ("Hecho por: Laura Camila Diaz Delgado - 2220100")

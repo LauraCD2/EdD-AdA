@@ -42,6 +42,7 @@ echo "El listado de mayor a menor, según el número de votos obtenidos por cada
 for ($i = 0; $i < 30; $i++) {
     echo "El candidato ", $candidatos[$i], " obtuvo ", $votos_normalizados[$i], " votos";
 }
+echo "Hecho por: Laura Camila Diaz Delgado - 2220100")";
 
 //comprobar que la suma de votos es igual a 5000
 //echo "La suma total de votos es: ", array_sum($votos_normalizados);
