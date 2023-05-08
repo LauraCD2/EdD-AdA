@@ -10,4 +10,4 @@ Docente: Nury Farelo
 4. [*PARCIAL 1 CORTE*](https://github.com/laucamidiaz3008/EdD-AdA/tree/main/4.%20PARCIAL%201%20CORTE)
 5. [*CLASES PRACTICAS*](https://github.com/laucamidiaz3008/EdD-AdA/tree/main/5.%20CLASES%20PRACTICAS)
 6. [*CONSULTA LIBRERIA PYTHON*](https://github.com/laucamidiaz3008/EdD-AdA/tree/main/6.%20CONSULTA%20LIBRERIA%20PYTHON)
-Z. [*PROYECTO FINAL*](https://github.com/laucamidiaz3008/EdD-AdA/tree/main/Z.%20PROYECTO%20FINAL)
+1000. [*PROYECTO FINAL*](https://github.com/laucamidiaz3008/EdD-AdA/tree/main/Z.%20PROYECTO%20FINAL)
