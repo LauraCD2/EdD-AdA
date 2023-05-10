@@ -11,7 +11,10 @@ import pandas as pd
 # LA CARRERA SELECCIONADA corresponde a las dos primeras cifras de la columna A de la base de datos (codigo)
 
 #Importar la base de datos de estudiantes de la UIS
-df = pd.read_excel('BD_EstudiantesUIS.xlsx')
+# df = pd.read_excel('BDEstudiantes.xlsx')
+import os
+file_path = os.path.join("6. CONSULTA LIBRERIA PYTHON", "BDEstudiantes.csv")
+df = pd.read_csv(file_path, sep=';')
 #df = pd.read_excel('BD_EstudiantesUIS.xlsx', sheet_name='Hoja 1')
 
 # 1. Imprimir el código y el nombre de los estudiantes de la carrera X que tengan promedio acumulado igual o mayor a 4
