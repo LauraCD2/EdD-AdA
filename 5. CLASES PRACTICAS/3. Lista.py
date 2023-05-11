@@ -4,6 +4,13 @@ class Lista:
     def __init__(self, cabeza=None):
         self.cabeza = cabeza
     
+    #Asigne los valores de la lista
+    valores = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J"]
+    
+    #Construya la lista
+    lista = list()
+    print ("Lista inicial:" + str(valores))
+    
     def insertar(self, nodo, posicion):
         if posicion == 0:
             nodo.asignar_sig(self.cabeza)
@@ -90,4 +97,3 @@ class Lista:
         
     def cambiar_cabeza(self, nueva_cabeza):
         self.cabeza = nueva_cabeza
-        
