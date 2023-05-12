@@ -11,6 +11,6 @@ Docente: [Nury Farelo](https://github.com/nuryfv)
 5. [*CLASES PRACTICAS*](https://github.com/laucamidiaz3008/EdD-AdA/tree/main/5.%20CLASES%20PRACTICAS)
    5.1. [*LAMBDA PARES*](https://github.com/laucamidiaz3008/EdD-AdA/blob/main/5.%20CLASES%20PRACTICAS/1.%20LambdaPares.py)
    5.2. [*NODO*](https://github.com/laucamidiaz3008/EdD-AdA/blob/main/5.%20CLASES%20PRACTICAS/2.%20Nodo.py)
-   5.3. [*LISTA*](https://github.com/laucamidiaz3008/EdD-AdA/blob/main/5.%20CLASES%20PRACTICAS/3.%20Lista.py)
+   5.3. [*LISTA*](https://github.com/laucamidiaz3008/EdD-AdA/blob/main/5.%20CLASES%20PRACTICAS/3.%20Lista.py) 
 6. [*CONSULTA LIBRERIA PYTHON*](https://github.com/laucamidiaz3008/EdD-AdA/tree/main/6.%20CONSULTA%20LIBRERIA%20PYTHON)
 
