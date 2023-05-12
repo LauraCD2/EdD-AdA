@@ -97,3 +97,6 @@ class Lista:
         
     def cambiar_cabeza(self, nueva_cabeza):
         self.cabeza = nueva_cabeza
+    
+    def devolver_cabeza(self):
+        return self.cabeza
