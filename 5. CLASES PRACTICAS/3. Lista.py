@@ -100,3 +100,5 @@ class Lista:
     
     def devolver_cabeza(self):
         return self.cabeza
+    
+    #tqm
