@@ -20,5 +20,5 @@ Docente: [Nury Farelo](https://github.com/nuryfv)
 
 6. [*CONSULTA LIBRERIA PYTHON*](https://github.com/laucamidiaz3008/EdD-AdA/tree/main/6.%20CONSULTA%20LIBRERIA%20PYTHON)
 7. [*TALLER LISTAS SE*](https://github.com/laucamidiaz3008/EdD-AdA/tree/main/7.%20TALLER%20LISTAS%20SE)
-8. [*TALLER LISTAS CDE*](https://github.com/laucamidiaz3008/EdD-AdA/tree/main/8.%20TALLER%20LISTAS%20CDE)
+8. [*TALLER LISTAS CDE*](https://github.com/laucamidiaz3008/EdD-AdA/tree/main/8.%20TALLER%20LISTAS%20DE)
 
