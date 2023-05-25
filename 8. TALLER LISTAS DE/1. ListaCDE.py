@@ -1,5 +1,4 @@
-#crear:
-#Una lista CIRCULAR DOBLEMENTE ENLAZADA
+#crear: Una lista CIRCULAR DOBLEMENTE ENLAZADA
 #Método para insertar en:
     #a. Inicio
     #b. Final
