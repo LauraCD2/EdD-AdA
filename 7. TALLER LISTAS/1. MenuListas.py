@@ -8,8 +8,6 @@
 # 7. Posiciones de un número: Te pide un número y te dice en qué posiciones está (contando desde 1).
 # 8. Mostrar números: Muestra los números de la lista
 # 9. Salir "
-
-#revise si se deben hacer excepciones en las funciones
 class MenuLista: 
     # 1. Añadir número a la lista: Me pide un número de la lista y lo añade al final de la lista.
     def anadirNumero(lista):
