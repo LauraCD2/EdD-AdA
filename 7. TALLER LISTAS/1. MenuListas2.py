@@ -9,7 +9,6 @@
 # 8. Mostrar números: Muestra los números de la lista
 # 9. Salir "
 
-#revise si se deben hacer excepciones en las funciones
 #use listas simplemente enlazadas
 class MenuLista:
         # 1. Añadir número a la lista: Me pide un número de la lista y lo añade al final de la lista.
