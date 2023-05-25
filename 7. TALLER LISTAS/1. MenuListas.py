@@ -10,8 +10,7 @@
 # 9. Salir "
 
 #revise si se deben hacer excepciones en las funciones
-class MenuLista:
-    
+class MenuLista: 
     # 1. Añadir número a la lista: Me pide un número de la lista y lo añade al final de la lista.
     def anadirNumero(lista):
         numero = int(input("Ingrese un numero: "))
