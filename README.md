@@ -1,6 +1,6 @@
 # EdD-AdA
 
-Estructuras de Datos y Análisis de Algoritmos - UIS
+Estructuras de Datos y Análisis de Algoritmos 22955 - UIS - 2023-1
 
 Docente: [Nury Farelo](https://github.com/nuryfv)
 
